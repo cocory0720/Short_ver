@@ -1,0 +1,100 @@
+{
+    "results": [
+        {
+            "title": "Yellow",
+            "color": "yellow",
+            "ability": ["먼저 미래를 준비하는 힘"],
+            "character": ["오늘보다 나은 내일을 추구한다.", "스마트하고 지적이다.", "늘 무언가 일을 벌이고 싶어한다."],
+            "support1": "B",
+            "support2": "YG"
+        },
+        {
+            "title": "Orange",
+            "color": "orange",
+            "ability": ["모양이나 결과로 나타내는 힘"],
+            "character": ["인간관계를 중요하게 여긴다.", "칭찬 받으면 아주 열심히 한다.", "흥정을 잘한다."],
+            "support1": "YG",
+            "support2": "Y"
+        },
+        {
+            "title": "Red",
+            "color": "red",
+            "ability": ["목표를 향해 움직이는 힘"],
+            "character": ["에너지와 활력이 넘친다.", "사회적인 성공을 추구한다.", "프로의식을 갖춘 리더 스타일이다."],
+            "support1": "Y",
+            "support2": "P"
+        },
+        {
+            "title": "Green",
+            "color": "green",
+            "ability": ["차분하고 편하게 하는 힘"],
+            "character": ["약속은 반드시 지킨다.", "외로움을 타며 혼자 있는 것을 싫어한다.", "좋고 싫음이 분명하다."],
+            "support1": "M",
+            "support2": "BG"
+        },
+        {
+            "title": "Turquoise",
+            "color": "turquoise",
+            "ability": ["도움을 받지 않고 스스로 해내는 힘"],
+            "character": ["독자적인 성향이 강하다.", "자신만의 공간에서 전문적인 일을 하고 싶어한다.", "무에서 유를 창조하는 창의력이 있다."],
+            "support1": "I",
+            "support2": "O"
+        },
+        {
+            "title": "Purple",
+            "color": "purple",
+            "ability": ["뛰어난 직관의 힘"],
+            "character": ["기분파이며 구속되는 것을 싫어한다.", "잘하는 분야에서 폭발적인 능력을 발휘한다.", "상상할 수 없는 예술성이 잠재되어 있다."],
+            "support1": "R",
+            "support2": "RO"
+        },
+        {
+            "title": "Yellow Green",
+            "color": "yellowgreen",
+            "ability": ["주의깊고 자세하게 보는 힘"],
+            "character": ["사랑받고 인정받는다는 느낌을 원한다.", "친한 사람하고만 이야기 한다.", "호기심이 많고 눈치가 빠르다."],
+            "support1": "G",
+            "support2": "B"
+        },
+        {
+            "title": "Blue Green",
+            "color": "bluegreen",
+            "ability": ["어떠한 상황에서도 균형을 유지하는 힘"],
+            "character": ["신뢰와 안정을 추구한다.", "결정한 것을 철저하게 해낸다.", "표현이 다소 직설적이다."],
+            "support1": "G",
+            "support2": "P"
+        },
+        {
+            "title": "Indigo",
+            "color": "indigo",
+            "ability": ["의미를 알고 이해하는 힘"],
+            "character": ["논리적인 데이터를 중요하게 여긴다.", "완벽주의적인 성향이 강하다.", "윗사람에게 인정 받는 스타일이다."],
+            "support1": "T",
+            "support2": "RO"
+        },
+        {
+            "title": "Blue",
+            "color": "blue",
+            "ability": ["말로써 의사를 전달하는 힘"],
+            "character": ["경험과 실적을 중요하게 여긴다.", "역할 분담을 잘한다.", "끈기와 고집이 있다."],
+            "support1": "I",
+            "support2": "M"
+        },
+        {
+            "title": "Magenta",
+            "color": "magenta",
+            "ability": ["큰 마음으로 타인을 받아들이는 힘"],
+            "character": ["일처리가 대범하고 명쾌하다.", "대단한 자신감을 갖고 있다.", "자신과 가장 가까이 있는 사람을 중요하게 여긴다."],
+            "support1": "T",
+            "support2": "BG"
+        },
+        {
+            "title": "Red Orange",
+            "color": "redorange",
+            "ability": ["새롭게 고치고 변화시키는 힘"],
+            "character": ["언제 어디서나 돋보이고 싶어한다.", "간섭과 구속을 싫어하고 자유분방하다.", "직극히 긍정적이다."],
+            "support1": "R",
+            "support2": "O"
+        }
+    ]
+}
